@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat;
+}
+
+body {
+    font-family: montserrat;
+}
+
+.newdiv {
+    background-color: rgb(41, 28, 28);
+    overflow: hidden;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.img-circle {
+    position: absolute;
+    top: 6%;
+}
+
+.div1 {
+    color: slateblue;  
+    margin-top: 20px;
+}
+
+.personal {
+    margin-top: 40px;
+}
+
+.new5 {
+    background-color: rgb(233, 233, 233);
+    overflow: hidden;
+}
+
+.img2 {
+    margin-top: 20px;
+    height: 24px;
+    width: 24px;
+}
+
+.new3 {
+    display: inline;
+    margin-top: 10px;
+}
